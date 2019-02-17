@@ -1,3 +1,3 @@
 # A-Start-I-guess...
 It's my first OOP code.
-It includes creating two classes and one's fucntion by using the other. It simply calculates your grade !!
+It includes creating two classes and one's functions by using the other. It simply calculates your grade !!
